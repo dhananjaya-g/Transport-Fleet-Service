@@ -1,0 +1,6 @@
+# Example CSV
+Car,C9,City,140.0,4,5,2,20.0,1200.0,false
+Truck,T9,Hauler,105.0,6,6000.0,800.0,70.0,20000.0,true
+Bus,B9,Intercity,90.0,6,50,35,500.0,180.0,100.0,false
+Airplane,A9,JetX,880.0,11000.0,180,160,12000.0,5000.0,8000.0,false
+CargoShip,S9,Oceanic,60.0,false,90000.0,20000.0,3000.0,50000.0,true
